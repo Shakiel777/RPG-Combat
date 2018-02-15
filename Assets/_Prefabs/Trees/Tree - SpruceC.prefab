@@ -55,7 +55,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4000010506839048}
   m_Layer: 0
-  m_Name: SpruceC
+  m_Name: Tree - SpruceC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
